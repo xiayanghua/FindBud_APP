@@ -235,8 +235,6 @@ Expected response:
 
 ![Demo Screenshot](link)
 
-![Demo Screenshot](link)
-
 ---
 
 ## Repository Structure
